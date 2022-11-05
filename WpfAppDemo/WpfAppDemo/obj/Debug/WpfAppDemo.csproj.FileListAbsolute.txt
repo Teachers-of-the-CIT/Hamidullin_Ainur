@@ -33,3 +33,15 @@ D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.cspr
 D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.csproj.CopyComplete
 D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.exe
 D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.pdb
+D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\bin\Debug\MaterialDesignColors.dll
+D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\bin\Debug\MaterialDesignColors.pdb
+D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\obj\Debug\App.baml
+D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\obj\Debug\AdminWindow.g.cs
+D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\obj\Debug\ManagerWindow.g.cs
+D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\obj\Debug\UserWindow.g.cs
+D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\obj\Debug\AdminWindow.baml
+D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\obj\Debug\ManagerWindow.baml
+D:\_projects\c#\Hamidullin_Ainur\WpfAppDemo\WpfAppDemo\obj\Debug\UserWindow.baml
